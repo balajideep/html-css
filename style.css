@@ -1,0 +1,523 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+body{
+    background-color:bisque;
+}
+h1{
+    margin-top: 20px;
+    margin-left: 50px;
+    color:lightslategray;
+}
+.read{
+    background-color:lightgray;
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+}
+.read1{
+    background-color:lightgrey;
+    height: 500px;
+    width: 49.5%;
+    float: left;
+   
+}
+.read2{
+    background-color:lightgray;
+    height: 500px;
+    width: 49.5%;
+    float: left;
+   
+}
+.read1 h2{
+    color: orangered;
+    font-size: 60px;
+    margin-top:80px;
+    margin-left: 100px;
+}
+.read1 a{
+    text-decoration-color: green;
+}
+.read1 a:hover{
+    text-decoration-color: orangered;
+}
+.read1 p{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding: 5px 5px;
+}
+.one a{
+      text-decoration: none;
+      margin-left: 100px;
+      border: 2px solid lightgray;
+      border-radius: 10px;
+      padding: 15px;
+      background-color: orangered;
+      color: white;
+}
+.one a:hover{
+    background-color: black;
+}
+.red a{
+    color: black;
+}
+.read2 img{
+    height: 500px;
+}
+.call{
+    position: relative;
+    background-color:white;
+    height: 540px;
+    width:100%;
+
+}
+.item{
+    position: absolute;
+    background-color:white;
+    height: 400px;
+    width:80%;
+    top: 100px;
+    left: 140px;    
+}
+.item1{
+    background-color:lightgray;
+    height: 440px;
+    width: 49.5%;
+    float: left;
+}
+.item1 img{
+    height: 440px;
+}
+.item2{
+    background-color:white;
+    height: 440px;
+    width: 49.5%;
+    float: left;
+}
+.item2 h3{
+      font-size: 40px;
+      margin-top: 40px;
+      margin-left: 25px;
+}
+.item2 p{
+    font-size: 20px;
+    margin-left: 25px;
+    padding: 10px 10px;
+}
+.two a{
+    border: 2px solid orangered;
+    border-radius: 10px; 
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    margin-left: 50px;
+    padding: 16px;
+
+    
+}
+.two a:hover{
+    background-color: bisque;
+    color: orangered;
+}
+.intime{
+    background-color:white;
+    height: 350px;
+}
+.intex{
+    background-color: white;
+    height: 350px;
+    width: 90%;
+    margin: 0 auto;
+}
+.index1{
+    background-color:white;
+    height: 350px;
+    width:33%;
+    float: left;
+}
+.index2{
+    background-color:white;
+    height: 350px;
+    width:33%;
+    float: left;
+}
+.index3{
+    background-color:white;
+    height: 350px;
+    width:33%;
+    float: left;
+}
+ h2 a{
+    text-decoration: none;
+    font-size: 30px;
+
+}
+.india{
+    position: relative;
+}
+.im{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: orangered;
+    font-size: 70px;
+
+}
+.india h4{
+ position: absolute;
+ top: 30px;
+ left: 130px;
+ font-size: 28px;
+
+}
+.index1 p{
+    font-size: 20px;
+    margin-left: 25px;
+    font-style: oblique;
+    padding: 10px 10px;
+}
+.index2{
+    position: relative;
+}
+.index2 h4{
+    position: absolute;
+    top: 60px;
+    left: 130px;
+    font-size: 28px;
+}
+.index2 p{
+    font-size: 20px;
+    margin-left: 25px;
+    font-style: oblique;
+    padding: 10px 10px;
+
+}
+.index3{
+    position: relative;
+}
+.index3 h4{
+    position: absolute;
+    top: 60px;
+    left: 130px;
+    font-size: 28px;
+}
+.index3 p{
+    font-size: 20px;
+    margin-left: 25px;
+    font-style: oblique;
+    padding: 10px 10px;
+
+}
+.react{
+    position: relative;
+    background-color: lightcoral;
+    height: 800px;
+    width: 100%;
+}
+.react1{
+    
+    background-color:lightcoral;
+    height: 800px;
+    width: 55%;
+    float: left;
+}
+.react11{
+    position: absolute;
+     background-color: white;
+     height: 150px;
+     width:150px;
+     border: 2px solid white;
+     border-radius: 120px;
+    top: 40px;
+    left: 460px;
+    overflow: hidden;
+
+}
+.react13{
+    position: absolute;
+    background-color:lightcoral;
+    height: 320px;
+    width:620px;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+    top: 200px;
+    left: 60px;
+   
+}
+.react12{
+    position: absolute;
+     background-color: white;
+     height: 200px;
+     width:200px;
+     border: 2px solid white;
+     border-radius: 120px;
+    bottom: 40px;
+    left: 460px;
+    overflow: hidden;
+
+}
+
+.react2{
+    
+    background-color:lightcoral;
+    
+    height: 800px;
+    width: 45%;
+    
+}
+.react21{
+    position: absolute;
+    border: 2px solid white;
+    border-radius: 200px;
+    background-color: aquamarine;
+    height: 400px;
+    width:400px;
+    right: 80px;
+    top: 60px;
+    overflow: hidden;
+    
+}
+.react22{
+    position: absolute;
+     background-color: white;
+     height: 260px;
+     width:450px;
+     border: 2px solid white;
+     border-radius: 10px;
+     right: 50px;
+     top: 400px;
+
+    }
+ .react13 h3{
+    font-size: 50px;
+    margin-top: 30px;
+}   
+.react13 p{
+    font-size: 20px;
+    padding: 10px 10px;
+}
+.react22 p{
+       font-size: 20px;
+       margin-top: 30px;
+       margin-left: 20px;
+       color:lightslategray;
+}
+.react22 a{
+    text-decoration-color: orangered;
+    margin-left: 20px;
+    color: black;
+}
+.react22 a:hover{
+    color: orangered;
+    text-decoration-color:black;
+
+}
+.class{
+    position: relative;
+    background-color: white;
+    height: 800px;
+    width: 100%;
+}
+.class1{
+    position: absolute;
+    background-color:orangered;
+    height: 400px;
+    width: 80%;
+    top: 300px;
+    left: 120px;
+}
+.class2{
+    position: absolute;
+    background-color:orangered;
+    height: 550px;
+    width: 60%;
+    top: 100px;
+    left: 250px;
+}
+.class3{
+    position: absolute;
+    background-color:white;
+    height: 310px;
+    width: 40%;
+    bottom: 0;
+    right: 150px;
+}
+.class3 h3{
+     font-size: 50px;
+     margin-top: 30px;
+     margin-left: 20px;
+}
+.class3 p{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+.class3 a{
+     border: 2px solid white;
+     border-radius: 10px;
+     padding: 20px;
+     text-decoration: none;
+     background-color: orangered;
+     color: black;
+     margin-left: 30px;
+}
+.class3 a:hover{
+     background-color: black;
+     color: white;
+
+}
+.win{
+    position: relative;
+    background-color: orangered;
+    height: 1600px;
+    width: 100%;
+}
+.win1{
+    position: absolute;
+    background-color:white;
+    height: 700px;
+    width: 100%;
+}
+.win2{
+    position: absolute;
+    background-color:white;
+    border-radius: 10px;
+    height: 400px;
+    width: 27%;
+    top: 400px;
+    left: 135px;
+}
+.win3{
+    position: absolute;
+    background-color:white;
+    border-radius: 10px;
+    height: 400px;
+    width: 27%;
+    top: 400px;
+    left: 510px;
+    
+}
+.win4{
+    position: absolute;
+    background-color:white;
+    border-radius: 10px;
+    height: 400px;
+    width: 27%;
+    top: 400px;
+    right: 100px;
+}
+.ig{
+    color: white;
+    font-size: 50px;
+    border: 2px solid white;
+    border-radius:100px ;
+    background-color: orangered;
+    height: 100px;
+    width: 100px;
+    margin:40px;
+    text-align: center;
+    line-height: 90px;
+}
+.king p{
+    font-size: 20px;
+    padding-left: 20px;
+     color: lightslategray;
+     font-style: oblique;
+}
+.king a{
+    color: black;
+    margin-left: 20px;
+    text-decoration-color: orangered;
+}
+.king a:hover{
+    color:orangered;
+    text-decoration-color:black;
+}
+.win51{
+    position: absolute;
+    background-color:orangered;
+    height: 250px;
+    width: 100%;
+    top: 820px;
+}
+.win51 p,a{
+       text-align: center;
+       font-size: 20px;
+       color:white;
+       text-decoration-color: white;
+       margin-top: 20px;
+}
+.win51 a:hover{
+    
+    text-decoration-color: orangered;
+}
+.win51 h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 60px;
+    color: white;
+    
+}
+.win511{
+    position: absolute;
+    background-color:orangered;
+    height: 300px;
+    width: 20%;
+    bottom: 170px;
+    left: 130px;
+}
+.win512{
+    position: absolute;
+    background-color:orangered;
+    height: 300px;
+    width: 20%;
+    bottom: 170px;
+    left: 410px;
+   
+    
+}
+.win513{
+    position: absolute;
+    background-color:orangered;
+    height: 300px;
+    width: 20%;
+    bottom: 170px;
+    right: 380px;
+    left: 50px;
+}
+.win514{
+    position: absolute;
+    background-color:orangered;
+    height: 300px;
+    width: 20%;
+    bottom: 170px;
+    right: 100px;
+    left: 10px;
+}
+.easy h2{
+    color: white;
+    font-size: 50px;
+}
+.oneone{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 30px;
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
+.easy p{
+    font-size: 20px;
+    color: white;
+    padding: 10px 8px;
+
+}
+
+
+
+
+
+
+
